@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EldoriaSMPSaison2.aternos.me:36120",
+    "ip": "EldoriaSMPSaison2.aternos.me",
     "port": 36120,
     "version": "",
     "try-creative": false
