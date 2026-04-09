@@ -85,9 +85,3 @@
     "respond": true
   }
 }
-const bot = mineflayer.createBot({
-  host: 'EldoriaSMPSaison2.aternos.me',
-  port: 36120,
-  username: 'WelcomeToEldoriaSMP',
-  auth: 'offline' // 👈 AJOUTE ÇA
-})
