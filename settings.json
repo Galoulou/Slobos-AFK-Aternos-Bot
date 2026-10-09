@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "EldoriaSMPSaison2.aternos.me",
-    "port": 36120,
+    "ip": "TheOnlyRealDonutSMP.aternos.me",
+    "port": 36311,
     "version": "1.20.4",
     "try-creative": false
   },
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 150,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to @YT_Galoulou!",
-        "I like to play Minecraft!"
+        "24H/24H SERVER",
+        "ATERNOS AFK BOT!",
+        "AFK BOT!"
       ]
     },
     "chat-log": true,
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "https://discord.com/api/webhooks/1491721869546618952/ZiBDa5NKFioyMmHOhTJREFkxNJayQXv9_sMKBC2QfQeKqVMY2teGXgdOz7tvZn5y6PE8",
+    "webhookUrl": "https://discord.com/api/webhooks/1558174112617210096/5cA1NJ_cy1gcVaVMUuGIesnx41hpQ7UpLK5Z7CD6Zd3oH0zZRf9kLlccQMDQYLVPRc38",
     "events": {
       "connect": true,
       "disconnect": true,
